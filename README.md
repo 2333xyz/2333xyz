@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Visitor Count](https://profile-counter.glitch.me/2333xyz/count.svg)
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=2333xyz&show_icons=true&theme=tokyonight)
 
